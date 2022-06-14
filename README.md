@@ -1,4 +1,4 @@
-# simon-game 
+# simon-game https://william73920.github.io/simon-game/
 how to play-
 For eg-Firstly, the game shows the first colour in the sequence (blue). The user clicks on the blue button.
 
